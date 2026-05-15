@@ -1,0 +1,10 @@
+Sample Predictions
+====================
+
+Text: I need information about the payment process. My ticket number is 78732. Please respond as soon as possible.
+Actual: neutral
+Predicted: neutral
+
+Text: I need information about the payment process.
+Actual: neutral
+Predicted: neutral
